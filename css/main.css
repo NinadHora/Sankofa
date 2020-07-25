@@ -17,8 +17,9 @@
 
 body {
     background-image: url("../img/background.png");
-    background-size: cover;
+    background-size: absolute;
     background-repeat: no-repeat;
+    background-position: center top;
     font-family: 'K2D', sans-serif;
     margin: 0;
     left: 0;
@@ -94,7 +95,7 @@ form input {
     width: 95%;
     margin: 50px auto;
     box-shadow: 3px 3px 3px 3px #fff;
-    position: cover;
+    position: relative;
     text-align: center;
 }
 
