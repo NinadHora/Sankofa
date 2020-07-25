@@ -21,6 +21,7 @@ body {
     background-repeat: no-repeat;
     background-position: initial;
     font-family: 'K2D', sans-serif;
+    margin: 0;
     max-width: auto;
     height: 100;
 }
