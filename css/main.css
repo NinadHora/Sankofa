@@ -17,7 +17,7 @@
 
 body {
     background-image: url("../img/background.jpeg");
-    background-size: cover;
+    background-size: initial;
     font-family: 'K2D', sans-serif;
     margin: 0;
 }
@@ -85,7 +85,7 @@ form input {
 /* MESA */
 
 .mesa {
-    border: 12px solid #795548;
+    border: 1px solid #795548;
     border-radius: 50px 50px 400px 400px;
     width: 95%;
     margin: 50px auto;
