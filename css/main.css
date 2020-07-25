@@ -89,13 +89,13 @@ form input {
     border-radius: 50px 50px 400px 400px;
     width: 95%;
     margin: 50px auto;
-    box-shadow: 10px 10px 100px 10px #fff;
-    position: static;
+    box-shadow: 3px 3px 3px 3px #fff;
+    position: relative;
     text-align: center;
 }
 
 .mesa img {
-    max-width: 300%;
+    max-width: 200%;
 }
 
 .mesa h1 {
