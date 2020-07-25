@@ -17,7 +17,7 @@
 
 body {
     background-image: url("../img/background.jpeg");
-    background-size: initial;
+    background-size: relative;
     font-family: 'K2D', sans-serif;
     margin: 0;
 }
