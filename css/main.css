@@ -20,6 +20,8 @@ body {
     background-size: relative;
     font-family: 'K2D', sans-serif;
     margin: 0;
+    max-width: 100;
+    height: auto;
 }
 
 
