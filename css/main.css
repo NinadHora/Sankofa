@@ -17,7 +17,7 @@
 
 body {
     background-image: url("../img/background.png");
-    background-size: absolute;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
     font-family: 'K2D', sans-serif;
