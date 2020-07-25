@@ -87,7 +87,7 @@ form input {
 .mesa {
     border: 12px solid #795548;
     border-radius: 50px 50px 400px 400px;
-    width: 75%;
+    width: 95%;
     margin: 50px auto;
     box-shadow: 10px 10px 100px 10px #fff;
     position: relative;
@@ -98,7 +98,7 @@ form input {
     max-width: 300%;
 }
 
-.mesa h3 {
+.mesa h1 {
     color: #f7e522;
 }
 
