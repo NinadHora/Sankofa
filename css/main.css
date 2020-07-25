@@ -19,9 +19,9 @@ body {
     background-image: url("../img/background.png");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: initial;
+    background-position: center center;
     font-family: 'K2D', sans-serif;
-    max-width: 100%;
+    max-width: auto;
     height: auto;
 }
 
