@@ -90,7 +90,7 @@ form input {
     width: 95%;
     margin: 50px auto;
     box-shadow: 10px 10px 100px 10px #fff;
-    position: initial;
+    position: absolute;
     text-align: center;
 }
 
