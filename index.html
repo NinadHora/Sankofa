@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <title>Sankofa </title>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+    <form action="javascript:novoJogo()">
+        <select id="nJogadores">
+                <option value="" selected disabled hidden>Número de Jogadores</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+            </select>
+        <select id="nTabuleiro">
+                <option value="" selected disabled hidden>Tamanho do Tabuleiro</option>
+                <option value="2">2</option>
+                <option value="4">4</option>
+            </select>
+        <input id="btnNovo" type="submit" value="Novo Jogo">
+    </form>
+
+    <div class="mesa">
+        <section id="espacoCartas" class="mt-3 mb-3">
+            <img src="" alt="">
+            <h1>Preencha o formulário para jogar</h1>
+        </section>
+    </div>
+
+    <div class="pontuacao">
+        <section id="jogador1">
+        </section>
+        <section id="jogador2">
+        </section>
+    </div>
+
+    <footer>
+        <p>Todas as imagens foram ilustradas por Tay Cabral|| Desenvolvido por <a href="" target="_blank" class="link-padrao">Nina da Hora</a></p>
+    </footer>
+
+    <script src="js/memoria.js"></script>
+</body>
+
+</html>
